@@ -9,4 +9,5 @@ I'm a Information Assurance student at <b>FPT University HCM</b>
 Learning:
 * Digital Forensics
 * Web Exploitation
+* SOC analyst
 
